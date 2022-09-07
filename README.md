@@ -1,2 +1,3 @@
 # wine-quality
-Wine-Quality Prediction using datset taken from kaggle. Then we will construct training and testing subsets from the full data set with points scores stratified by category, and perform some data visualization to evaluate each variable's usefulness in predicting wine score categories.  We then train classification tree, random forest, multinomial logistic regression, and kNN models on the training set and we will assess them based on their accuracy rate in determining correct points categories.  Finally, once we determine the model with the highest accuracy, we use it to make predictions our testing set, review its accuracy performance, and provide suggestions for improvements or next steps for further study.
+Wine-Quality Prediction-Predicting the Quality of Red Wine using Machine Learning Algorithms for Regression Analysis, Data Visualizations and Data Analysis.
+
